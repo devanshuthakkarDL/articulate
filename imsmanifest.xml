@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5WuOEuhl4Ct_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">WHO_PSD_SHUBHAM_SHRIVASTAVA</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="WHO_PSD_SHUBHAM_SHRIVASTAVA_ORG">
+    <organization identifier="WHO_PSD_SHUBHAM_SHRIVASTAVA_ORG">
+      <title>WHO_PSD_SHUBHAM_SHRIVASTAVA</title>
+      <item identifier="WHO_PSD_SHUBHAM_SHRIVASTAVA_SCO" isvisible="true" identifierref="__5WuOEuhl4Ct_course_id_RES">
+        <title>WHO_PSD_SHUBHAM_SHRIVASTAVA</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5WuOEuhl4Ct_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5l1N2NbzG3z_80_DX2048_DY2048_CX1024_CY600.png" />
+      <file href="mobile/6eSMlbpsnMd_80_P_48_129_459_471_DX2048_DY2048_CX459_CY471.png" />
+      <file href="mobile/6c0V8MhE1q4_80_P_0_251_48_97_DX2048_DY2048_CX48_CY97.png" />
+      <file href="mobile/5leLzlPguLV_80_P_977_251_47_97_DX2048_DY2048_CX47_CY97.png" />
+      <file href="mobile/6m6pfnqt6d0_80_P_969_9_50_54_DX2048_DY2048_CX50_CY54.png" />
+      <file href="story_content/6q3RPUPY8XQ_44100_48_0.mp3" />
+      <file href="mobile/6JOufzlUXBa_80_DX2048_DY2048_CX1024_CY600.png" />
+      <file href="mobile/5jaZCtrqtUx_80_P_425_168_551_431_DX1918_DY1918_CX552_CY432.png" />
+      <file href="mobile/61Ts6wi858O_80_DX2048_DY2048_CX1024_CY600.png" />
+      <file href="mobile/6DsAcuPYfiJ_80_P_52_130_506_469_DX1982_DY1982_CX507_CY470.png" />
+      <file href="mobile/5bxJ3q70xkM_80_DX2048_DY2048_CX1024_CY600.png" />
+      <file href="mobile/6GKQYkK5lD8_80_P_341_54_350_441_DX2048_DY2048_CX350_CY441.png" />
+      <file href="mobile/5be7TEaO0e5_80_P_762_103_158_266_DX2048_DY2048_CX158_CY267.png" />
+      <file href="mobile/5vkVzYYBe10_80_P_440_544_139_48_DX2048_DY2048_CX139_CY48.png" />
+      <file href="mobile/6C517tjp6b4_80_P_378_115_109_40_DX2048_DY2048_CX109_CY40.png" />
+      <file href="mobile/5ns5pdjzXnT_80_P_432_343_61_81_DX2048_DY2048_CX62_CY81.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d5Q84nvY0x.js" />
+      <file href="html5/data/js/5m4KIBBSho4.js" />
+      <file href="html5/data/js/5WnuYMmuH5p.js" />
+      <file href="html5/data/js/6JhgKfT5y90.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
